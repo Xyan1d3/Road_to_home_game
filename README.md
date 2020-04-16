@@ -1,10 +1,10 @@
 # Road_to_home_game
 This is a Hand Made CUI game for python3
 
-##The Rules of this game:  
-#[*] You have to reach your home which is position 150  
-#[*] The Road to your home is very difficult  
-#[*] There are many elements in this board  
+## The Rules of this game:  
+###### [*] You have to reach your home which is position 150  
+###### [*] The Road to your home is very difficult  
+###### [*] There are many elements in this board  
 #[*] Your Health is Full wich is 30  
 #[*] Your BuffsDamage over time is 0  
 #[*] If virus infects you your HP is reduced by 2 and Buff is -2  
